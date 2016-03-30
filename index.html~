@@ -9,9 +9,9 @@
 		// *** Fill the following variables using your own Project info from the Dashboard  ***
 		// ***                  (https://dashboard.tokbox.com/projects)                     ***
 
-		var apiKey = '';    // Replace with your own API key.
-		var sessionId = ''; // Replace with your generated Session ID.
-		var token = '';     // Replace with your generated Token (use Project Tools or from a server-side library)
+		var apiKey = '45544322';    // Replace with your own API key.
+		var sessionId = '2_MX40NTU0NDMyMn5-MTQ1OTMxNDQzNzAyN35nanh1MUZ1UUtaWGVqRk9nMlBleFlndVh-UH4'; // Replace with your generated Session ID.
+		var token = 'T1==cGFydG5lcl9pZD00NTU0NDMyMiZzaWc9ODE2MzgwNzA4M2RiNjllZjZmYjFlNGQ5ZGUzNmUyNThmZjFlOTQwNjpyb2xlPXB1Ymxpc2hlciZzZXNzaW9uX2lkPTJfTVg0ME5UVTBORE15TW41LU1UUTFPVE14TkRRek56QXlOMzVuYW5oMU1VWjFVVXRhV0dWcVJrOW5NbEJsZUZsbmRWaC1VSDQmY3JlYXRlX3RpbWU9MTQ1OTMxNDQ1NyZub25jZT0wLjgzNzU2MTg5NDUzMTU5MTUmZXhwaXJlX3RpbWU9MTQ1OTMxNzg0MiZjb25uZWN0aW9uX2RhdGE9';     // Replace with your generated Token (use Project Tools or from a server-side library)
 
 		var session;
 		var publisher;
