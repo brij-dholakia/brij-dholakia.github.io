@@ -10,7 +10,7 @@
 		// *** Fill the following variables using your own Project info from the Dashboard  ***
 		// ***                  (https://dashboard.tokbox.com/projects)                     ***
 
-		$.getJson("http://192.168.12.146:5000/get_token", function(data) {
+		jQuery.getJson("http://192.168.12.146:5000/get_token", function(data) {
 			alert("You got "+JSON.stringify(data));
 		});
 		var apiKey = '45544322';    // Replace with your own API key.
